@@ -27,7 +27,6 @@ jobs:
     - name: Test
       run: go test -v ./...
       
-    - name: Publishr
-      run: go publish -v ./...
+    
       
     
